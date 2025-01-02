@@ -1,4 +1,4 @@
-## Oii 👋  
+## Olá, seja bem-vindo! 👋  
 ### Eu sou o Kauê Eugênio.  
 ### Um entusiasta de robótica e tecnologia do Brasil.  
 
